@@ -1,4 +1,4 @@
-# 📈 Monte Carlo Options Pricing Tool
+# 📈 Options Pricing Tool: Monte Carlo, Binomial Tree, Black-Scholes
 
 This **Option Pricing Tool** provides a user-friendly interface to calculate the fair price of financial options using various pricing models for both European and American Options. It is designed to be used for personal financial research as a tool for quick option valuation.
 
